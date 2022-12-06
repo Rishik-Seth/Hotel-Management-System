@@ -1,0 +1,16 @@
+Check-in Time: Tue Apr 01 10:23:26 2022
+
+
+Room Number 1
+
+Name Sunil Gupta
+Age 28
+Gender M
+Aadhaar No. 1234 1234 1234
+Mobile No. 9109199999
+
+Name Shweta Gupta
+Age 28
+Gender F
+Aadhaar No. 1234 1235
+Mobile No. N.A.
